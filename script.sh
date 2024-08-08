@@ -1,6 +1,4 @@
 #!/bin/bash
-#VAR1=1
-#VAR2=2
 echo "Start of script!"
 
 echo "This is the test script"
